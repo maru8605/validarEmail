@@ -115,7 +115,10 @@ function enviarEmail(e) {
 
 // reset
 
-function resetearFormulario () {
-    formulario.reset();
+function resetearFormulario (e) {
     e.preventDefault();
+    
+    formulario.reset();
+
+    
 };
