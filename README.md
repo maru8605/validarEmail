@@ -2,7 +2,7 @@
 
 Projecto en JavaScript de validacion de formulario.
 
-DEMO:(maru8605.github.io/validaremail/)
+DEMO:[AQUI](maru8605.github.io/validaremail/)
 
 
 
